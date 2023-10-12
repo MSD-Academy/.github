@@ -79,7 +79,7 @@ To get started with Mosaied, simply clone the code from our GitHub repository:
  
  
 ```
-git clone https://github.com/mosaied/mosaied.git
+git clone https://github.com/mosaied-bot/mosaied.git
 ```
  
  
