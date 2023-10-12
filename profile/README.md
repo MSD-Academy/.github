@@ -62,6 +62,10 @@ Mosaied is 100% free and open-source. There are no hidden costs or fees.
 | Instagram integration | 🔴 |
 |--|--|
 | Automated Responses | 🔴 |
+|--|--|
+| Account Management | 🔴 |
+|--|--|
+| Multimedia Support | 🔴 |
 
  
 ### Feature Request
