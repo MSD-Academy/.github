@@ -1,7 +1,3 @@
-![](https://komarev.com/ghpvc/?username=MSD-Academy&label=PROFILE+VIEWS)
-
-
-
 ﻿### What is Mosaied?
  
  
@@ -47,8 +43,10 @@ Mosaied is 100% free and open-source. There are no hidden costs or fees.
  
 ### Development Phases
  
- 
-🟡 Work in progress 🔴 Not available Yet 🟢 Available
+
+🔴 Not available Yet
+🟡 Work in progress
+🟢 Available
  
  
 **Jan 2024 Release:**
@@ -71,7 +69,7 @@ Mosaied is 100% free and open-source. There are no hidden costs or fees.
 ### Contact Us
  
  
-If you have any feedback, questions, or need help with Mosaied, please contact us at [email protected]
+If you have any feedback, questions, or need help with Mosaied, please contact us at: monzer.a.omer@gmail.com
  
  
 ### Get Started Today!
@@ -81,14 +79,11 @@ To get started with Mosaied, simply clone the code from our GitHub repository:
  
  
 ```
- 
 git clone https://github.com/mosaied/mosaied.git
- 
- 
 ```
  
  
-Once you have cloned the code, you can deploy it to your own server or use a cloud-based hosting provider.
+Once you have cloned the code and done with the #[configurations](https://github.com/mosaied), you can deploy it to your own server or use a cloud-based hosting provider.
  
  
 Once Mosaied is deployed, you can start designing your chat bot and adding features. For more information, please see our documentation.
