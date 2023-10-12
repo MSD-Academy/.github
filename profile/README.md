@@ -53,7 +53,7 @@ Mosaied is 100% free and open-source. There are no hidden costs or fees.
  
 | Feature | State |
 |--|--|
-| X integration | 🔴 |
+| X integration (paid API) | 🔴 |
 |--|--|
 | Facebook integration | 🔴 |
 |--|--|
@@ -65,7 +65,7 @@ Mosaied is 100% free and open-source. There are no hidden costs or fees.
 |--|--|
 | Account Management | 🔴 |
 |--|--|
-| Multimedia Support | 🔴 |
+| Multimedia Support (Cloud Storage, S3, Local) | 🔴 |
 
  
 ### Feature Request
