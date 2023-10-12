@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MSD-Academy&label=PROFILE+VIEWS)
 
 
- 
 ﻿### What is Mosaied?
  
  
@@ -54,9 +53,7 @@ Mosaied is 100% free and open-source. There are no hidden costs or fees.
 **Jan 2024 Release:**
  
 | Feature | State |
- 
 |--|--|
- 
 | Social media integration | 🔴 |
  
  
