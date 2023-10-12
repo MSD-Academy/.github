@@ -83,10 +83,10 @@ git clone https://github.com/mosaied/mosaied.git
 ```
  
  
-Once you have cloned the code and done with the #[configurations](https://github.com/mosaied), you can deploy it to your own server or use a cloud-based hosting provider.
+Once you have cloned the code and done with the [configurations](https://github.com/mosaied), you can deploy it to your own server or use a cloud-based hosting provider.
  
  
-Once Mosaied is deployed, you can start designing your chat bot and adding features. For more information, please see our documentation.
+Once Mosaied is deployed, you can start designing your chat bot and adding features. For more information, please see our [documentation](https://github.com/mosaied).
  
  
 We hope you enjoy using Mosaied! We are always working to add new features and improve the product. If you have any feedback or suggestions, please let us know.
