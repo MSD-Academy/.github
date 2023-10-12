@@ -53,9 +53,16 @@ Mosaied is 100% free and open-source. There are no hidden costs or fees.
  
 | Feature | State |
 |--|--|
-| Social media integration |--|--| | X | 🔴 | | 🔴 |
- 
- 
+| X integration | 🔴 |
+|--|--|
+| Facebook integration | 🔴 |
+|--|--|
+| Telegram integration | 🔴 |
+|--|--|
+| Instagram integration | 🔴 |
+|--|--|
+| Automated Responses | 🔴 |
+
  
 ### Feature Request
  
