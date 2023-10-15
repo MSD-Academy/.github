@@ -1,7 +1,9 @@
 ## Welcome to Mosaied's GitHub organization! 
+
+### What is Mosaied?
 Mosaied is an open-source chat bot designed to help businesses grow and improve their customer service. With a wide range of features and capabilities, Mosaied offers a comprehensive solution for automating tasks, engaging customers, and boosting sales.
 
-### Features:
+## Features:
 **1. Social media integration:** Easily connect your Mosaied chat bot to your social media accounts, allowing you to reach a broader audience and provide seamless customer support across multiple platforms.
 
 **2. Multimedia support:** Engage your customers with rich media content by sending and receiving images, videos, and other multimedia formats through the chat bot interface.
@@ -27,3 +29,7 @@ Mosaied is an open-source chat bot designed to help businesses grow and improve 
 **12. FAQ knowledge base:** Build a comprehensive knowledge base within Mosaied to provide instant answers to common customer questions. Empower your customers with self-service options, reducing their reliance on support agents for basic inquiries.
 
 At Mosaied, we believe in the power of chat bots to enhance customer experiences and drive business growth. Join our GitHub organization today to contribute to the development of this exciting open-source project and take advantage of Mosaied's powerful features to transform your business.
+
+## Contacts
+
+* Monzer Omer (monzer.a.omer@gmail.com)
